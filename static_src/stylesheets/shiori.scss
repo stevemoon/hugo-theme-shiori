@@ -46,7 +46,7 @@ $red: #e74c3c;
 
 @import "theme-color";
 @import "custom-bootstrap-variables";
-@import "bootstrap-sass/assets/stylesheets/bootstrap";
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
 $space-xs: $line-height-computed * 1;
 $space-sm: $line-height-computed * 1.5;
